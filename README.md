@@ -11,7 +11,6 @@ With Feature Selection Algorithm Using : Genetic Algorithms
 
 Each classification model undergoes 4 experiments:
 1. Data Attributes Not Normalized
-2. All Data Attributes Normalized
-3. Partial Data Attributes Normalized where the data is not within the range [0,1]
-
-Normalization is done using MinMaxScaler.
+2. All Data Attributes Normalized (Normalization is done using MinMaxScaler)
+3. Partial Data Attributes Normalized where the data is not within the range [0,1] (Normalization is done using MinMaxScaler)
+4. Without Feature Selection Algorithm just ML models for classification
