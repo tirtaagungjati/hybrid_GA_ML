@@ -1,0 +1,9 @@
+# You need to install this library before executing the program that we have created
+# Usage: pip install -r requirements.txt
+pandas==2.1.4 
+numpy==1.23.4
+matplotlib==3.7.2
+seaborn==0.12.2
+ucimlrepo==0.0.3
+sklearn-genetic==0.5.1
+scikit-learn==1.1.3
